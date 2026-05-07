@@ -87,6 +87,12 @@ Interface options
   - The serial login shell is disabled
   - The serial interface is enabled
 
+Create a venv to be able to use adafruit packages
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
 Make services for sripts to be ran automaticaly on startup
 ```bash
 cd /etc/systemd/system/
