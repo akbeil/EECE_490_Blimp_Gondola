@@ -45,7 +45,8 @@ This projects object was to make the gondola that could then be attached to a bl
 
 ## Hardware
 
-Hardware needed to replicate project.
+Hardware needed to replicate project. 
+refer to gondola system layout in documents to build.
 
 - Adafruit Ultimate GPS Breakout - PA1616S
 - BNO055 9-axis Sensor
@@ -135,6 +136,7 @@ Restart=always
 [Install]
 WantedBy=multi-user.target
 ```
+refer to test plan in documents to test components.
 
 ### Clone the Repository
 
