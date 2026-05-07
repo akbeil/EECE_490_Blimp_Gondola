@@ -60,6 +60,9 @@ Hardware needed to replicate project.
 - adafruit_pca9685
 - pygeomag
 - pynmea2
+- RClone
+- rpicam
+- mmcli
 
 ---
 
