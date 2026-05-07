@@ -3,7 +3,16 @@
 Anders Beil and Alessio Tourrilhes EECE 490B senior capstone project implementation. Project was undertaken as our senior undergraduate design project.
 
 ---
-
+<table align="center">
+  <tr>
+    <td><img src="images/complete.jpg" ></td>
+    <td><img src="images/charging.jpg" ></td>
+  </tr>
+  <tr>
+    <td><img src="images/internals.png" height="450"></td>
+    <td><img src="images/blimp3dprints.png" ></td>
+  </tr>
+</table>
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
