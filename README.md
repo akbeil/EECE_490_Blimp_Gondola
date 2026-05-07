@@ -96,8 +96,8 @@ After=network.target
 
 [Service]
 User=<USER>
-WorkingDirectory=<DIRECTORY WITH SCRIPT>
-ExecStart=<VENV LOCATION> <SCRIPT LOCATION>
+WorkingDirectory=<SCRIPT DIRECTORY>
+ExecStart=<VENV PATH> <SCRIPT PATH>
 Restart=always
 
 [Install]
