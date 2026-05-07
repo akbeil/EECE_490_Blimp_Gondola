@@ -3,8 +3,8 @@
 Anders Beil and Alessio Tourrilhes EECE 490B senior capstone project implementation. Project was undertaken as our senior undergraduate design project.
 
 ---
-<video src="images/demo.mp4" controls>
-</video>
+https://github.com/akbeil/EECE_490_Blimp_Gondola/images/demo.mp4
+
 <table align="center">
   <tr>
     <td><img src="images/complete.jpg" ></td>
