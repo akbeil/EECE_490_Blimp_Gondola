@@ -45,9 +45,7 @@ This projects object was to make the gondola that could then be attached to a bl
 
 ## Hardware
 
-Hardware needed to replicate project. 
-refer to gondola system layout in documents to build.
-
+Hardware needed to replicate project.
 - Adafruit Ultimate GPS Breakout - PA1616S
 - BNO055 9-axis Sensor
 - Brushless ESC 2S 20A Electric Speed Controller
@@ -61,6 +59,8 @@ refer to gondola system layout in documents to build.
 - RC7.2-75 PSAF Solar Panels
 - SIM7600G-H 4G HAT (B)
 - Turnigy Rapid 2S2P 8000mAh Lipo Battery
+
+Refer to gondola system layout in documents to build.
 
 ---
 
@@ -136,7 +136,7 @@ Restart=always
 [Install]
 WantedBy=multi-user.target
 ```
-refer to test plan in documents to test components.
+Refer to test plan in documents to test components.
 
 ### Clone the Repository
 
