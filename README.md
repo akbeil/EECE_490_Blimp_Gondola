@@ -92,6 +92,19 @@ Create a venv to be able to use adafruit packages
 python3 -m venv venv
 source venv/bin/activate
 ```
+install packages
+```bash
+sudo apt install rclone
+sudo apt install modemmanager
+sudo apt install libcamera-apps
+
+pip install adafruit-blinka
+pip install smbus2
+pip install adafruit-circuitpython-bno055
+pip install adafruit-circuitpython-pca9685
+pip install pygeomag
+pip install pynmea2
+```
 
 Make services for sripts to be ran automaticaly on startup
 ```bash
