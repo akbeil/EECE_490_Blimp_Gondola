@@ -81,8 +81,8 @@ Interface options
 - ssh enabled
 - I2C Enabled
 - Serial port
-- - The serial login shell is disabled
-- - The serial interface is enabled
+  - The serial login shell is disabled
+  - The serial interface is enabled
 
 Make services for sripts to be ran automaticaly on startup
 ```bash
